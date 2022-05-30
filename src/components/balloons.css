@@ -1,0 +1,81 @@
+.body_box {
+    height: 700px;
+    width: 80%;
+    margin-left: 20%;
+    display: flex;
+    padding: 10px;
+}
+
+.body_box > div {
+    height: 100%;
+    width: 50%;
+    padding: 10px;
+}
+
+.input_box {
+    width: 5%;
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 5%;
+    margin-right: 3%;
+    margin-top: 2%;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.btn_shoot {
+    width: 5%;
+    padding: 1px 2px 2px 2px;
+    background-color: red;
+    height: 20px;
+    border: 2px solid black;
+    border-radius: 5%;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.body_box_left {
+    display: flex;
+    margin: 2px;
+    padding: 1px;
+}
+
+.ballon_structure {
+    width: 14%;
+    height: 12%;
+    border-radius: 50%;
+    margin-top: 5%;
+}
+
+.div-1 {
+    background-color: rgb(92, 28, 3);
+}
+
+.div-2 {
+    background-color: rgb(8, 255, 74);
+}
+
+.div-3 {
+    background-color: rgb(15, 4, 75);
+}
+
+.div-4 {
+    background-color: rgb(83, 2, 78);
+}
+
+.div-5 {
+    background-color: rgb(90, 136, 142);
+}
+
+.main-div {
+    display: flex;
+    gap: 100px;
+}
+
+.body_box_right {
+    padding: 100px;
+    width: 200px;
+
+}
